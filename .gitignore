@@ -1,4 +1,6 @@
 .import/
+build.sh
 export_presets.cfg
 *.import
 *.pck
+*.zip
