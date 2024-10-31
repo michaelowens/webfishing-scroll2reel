@@ -1,7 +1,7 @@
 {
   "name": "Scroll2Reel",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/michaelowens/webfishing-scroll2reel",
-  "description": "Mod loader & runtime script patching for Godot",
+  "description": "Use the scroll wheel to yank while reeling",
   "dependencies": ["NotNet-GDWeave-2.0.12"]
 }
